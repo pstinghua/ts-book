@@ -1,0 +1,31 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "learning typescript",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pstinghua/ts-book.git"
+  },
+  "keywords": [
+      "typescript",
+      "demo",
+      "example"
+  ],
+  "author": "Yuanliang Xie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pstinghua/ts-book/issues"
+  },
+  "homepage": "https://github.com/pstinghua/ts-book#readme",
+  "engines": {},
+  "devDependencies": {
+    "gulp-typescript": "^2.11.0"
+  },
+  "dependencies": {
+    "jquery": "^2.2.0"
+  }
+}

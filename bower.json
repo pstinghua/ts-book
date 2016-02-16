@@ -1,0 +1,29 @@
+{
+  "name": "ts-book",
+  "description": "learning typescript",
+  "main": "index.html",
+  "authors": [
+    "Yuanliang Xie"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "typescript",
+    "demo",
+    "example"
+  ],
+  "homepage": "https://github.com/pstinghua/ts-book",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0"
+  },
+  "devDependencies": {
+    "jasmine-core": "jasmine#^2.4.1"
+  }
+}
